@@ -1,4 +1,3 @@
-
 <a name="T_20FD64C7"></a>
 
 # <span style="color:rgb(213,80,0)">Programming: A Starter Project Using MATLAB with Python</span>
